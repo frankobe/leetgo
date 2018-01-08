@@ -1,3 +1,5 @@
+# O(N) time complexity
+# O(1) space complexity
 class Solution(object):
     def repeatedSubstringPattern(self, s):
         def shift(s, i):
